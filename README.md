@@ -8,3 +8,6 @@ Create a virtual environment:
 
 ```bash
 python -m venv .venv
+## Progress
+
+Environment setup completed.
