@@ -1,0 +1,7 @@
+print("Hello from Python!")
+
+import numpy as np
+
+numbers = np.array([10, 20, 30, 40])
+print(numbers)
+print("Mean:", numbers.mean())
