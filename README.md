@@ -6,8 +6,6 @@ My machine learning learning project.
 
 Create a virtual environment:
 
-```bash
+``` 
+bash
 python -m venv .venv
-## Progress
-
-Environment setup completed.
