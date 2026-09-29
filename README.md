@@ -1,10 +1,10 @@
-# ML Learning
+ML Learning
 
 My machine learning learning project.
 
-## Setup
+Setup
 
 Create a virtual environment:
 
 ```bash
-python -m venv .venv
+python -m venv .venv ```
